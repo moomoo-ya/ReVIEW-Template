@@ -4,7 +4,8 @@
 		"editor.wordWrap": "on"
 	},
 	"extensions": [
-		"yuqquu.review-starter-syntax-highlight"
+		"atsushieno.language-review",
+		"ics.japanese-proofreading",
 	],
 	"postCreateCommand": [
 		"npm",
